@@ -11,6 +11,7 @@ public class Maximize2 {
 		Thread.sleep(5000);
 		driver.manage().window().maximize();
 		driver.close();
+		System.out.println("comments from Github By team leader");
 	}
 
 }
